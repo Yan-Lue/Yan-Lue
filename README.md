@@ -13,7 +13,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Yan-Lue)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yan-Lue&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.screw-hand.vercel.app/?username=Yan-Lue)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
